@@ -17,4 +17,4 @@ Un script de Python que utiliza la biblioteca `telethon` para borrar automática
 
    ```bash
    git clone [https://github.com/reproteq/telegram-delete-chats.git]
-   cd telegram-chat-cleaner
+   cd telegram-delete-chats
