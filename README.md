@@ -1,4 +1,3 @@
-# telegram-delete-chats
 # Telegram Chat Cleaner
 
 [![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
@@ -17,5 +16,5 @@ Un script de Python que utiliza la biblioteca `telethon` para borrar automática
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/telegram-chat-cleaner.git
+   git clone [https://github.com/reproteq/telegram-delete-chats.git]
    cd telegram-chat-cleaner
