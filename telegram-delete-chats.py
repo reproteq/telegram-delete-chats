@@ -1,7 +1,9 @@
+# This script python delete all chats and only need telthon python and your api config
+# Goto here https://my.telegram.org/apps   for get api config
+#pip install telethon
 from telethon.sync import TelegramClient
 
 # Configuración de la API de Telegram
-# https://my.telegram.org/apps
 api_id = 'TU_API_ID'
 api_hash = 'TU_API_HASH'
 phone_number = 'TU_NUMERO_DE_TELEFONO'  # Ejemplo: '+34123456789'
